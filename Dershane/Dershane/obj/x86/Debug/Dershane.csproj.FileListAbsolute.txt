@@ -1,0 +1,203 @@
+c:\users\pardus\documents\visual studio 2010\Projects\Dershane\Dershane\bin\Debug\Dershane.exe
+c:\users\pardus\documents\visual studio 2010\Projects\Dershane\Dershane\bin\Debug\Dershane.pdb
+c:\users\pardus\documents\visual studio 2010\Projects\Dershane\Dershane\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\pardus\documents\visual studio 2010\Projects\Dershane\Dershane\obj\x86\Debug\Dershane.Form1.resources
+c:\users\pardus\documents\visual studio 2010\Projects\Dershane\Dershane\obj\x86\Debug\Dershane.OgrenciEkle.resources
+c:\users\pardus\documents\visual studio 2010\Projects\Dershane\Dershane\obj\x86\Debug\Dershane.Properties.Resources.resources
+c:\users\pardus\documents\visual studio 2010\Projects\Dershane\Dershane\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+c:\users\pardus\documents\visual studio 2010\Projects\Dershane\Dershane\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+c:\users\pardus\documents\visual studio 2010\Projects\Dershane\Dershane\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+c:\users\pardus\documents\visual studio 2010\Projects\Dershane\Dershane\obj\x86\Debug\Dershane.exe
+c:\users\pardus\documents\visual studio 2010\Projects\Dershane\Dershane\obj\x86\Debug\Dershane.pdb
+C:\Users\Pardus\documents\visual studio 2010\Projects\Dershane\Dershane\obj\x86\Debug\Dershane.OgrenciListele.resources
+C:\Users\Pardus\documents\visual studio 2010\Projects\Dershane\Dershane\obj\x86\Debug\Dershane.OgretmenEkle.resources
+C:\Users\Pardus\documents\visual studio 2010\Projects\Dershane\Dershane\obj\x86\Debug\Dershane.OgretmenListele.resources
+C:\Users\Pardus\documents\visual studio 2010\Projects\Dershane\Dershane\obj\x86\Debug\Dershane.DevamsizlikListe.resources
+C:\Users\Pardus\documents\visual studio 2010\Projects\Dershane\Dershane\obj\x86\Debug\Dershane.Gruplar.resources
+C:\Users\Pardus\documents\visual studio 2010\Projects\Dershane\Dershane\obj\x86\Debug\Dershane.GrupEkle.resources
+C:\Users\Pardus\documents\visual studio 2010\Projects\Dershane\Dershane\obj\x86\Debug\Dershane.GrupOlustur.resources
+C:\Users\Pardus\documents\visual studio 2010\Projects\Dershane\Dershane\obj\x86\Debug\Dershane.DevamsizlikEkle.resources
+C:\Users\Pardus\documents\visual studio 2010\Projects\Dershane\Dershane\obj\x86\Debug\Dershane.KursEkle.resources
+C:\Users\Crow\Desktop\Dershane\Dershane\obj\x86\Debug\Dershane.exe
+C:\Users\Crow\Desktop\Dershane\Dershane\obj\x86\Debug\Dershane.pdb
+C:\Users\Crow\Desktop\Dershane\Dershane\bin\Debug\Dershane.exe
+C:\Users\Crow\Desktop\Dershane\Dershane\bin\Debug\Dershane.pdb
+C:\Users\Crow\Desktop\Dershane\Dershane\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Crow\Desktop\Dershane\Dershane\obj\x86\Debug\Dershane.DevamsizlikEkle.resources
+C:\Users\Crow\Desktop\Dershane\Dershane\obj\x86\Debug\Dershane.DevamsizlikListe.resources
+C:\Users\Crow\Desktop\Dershane\Dershane\obj\x86\Debug\Dershane.Form1.resources
+C:\Users\Crow\Desktop\Dershane\Dershane\obj\x86\Debug\Dershane.Gruplar.resources
+C:\Users\Crow\Desktop\Dershane\Dershane\obj\x86\Debug\Dershane.GrupOlustur.resources
+C:\Users\Crow\Desktop\Dershane\Dershane\obj\x86\Debug\Dershane.OgrenciEkle.resources
+C:\Users\Crow\Desktop\Dershane\Dershane\obj\x86\Debug\Dershane.OgrenciListele.resources
+C:\Users\Crow\Desktop\Dershane\Dershane\obj\x86\Debug\Dershane.OgretmenEkle.resources
+C:\Users\Crow\Desktop\Dershane\Dershane\obj\x86\Debug\Dershane.OgretmenListele.resources
+C:\Users\Crow\Desktop\Dershane\Dershane\obj\x86\Debug\Dershane.Properties.Resources.resources
+C:\Users\Crow\Desktop\Dershane\Dershane\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Crow\Desktop\Dershane\Dershane\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Users\Crow\Desktop\Dershane\Dershane\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Crow\Desktop\Dershane\Dershane\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Crow\Desktop\Dershane\Dershane\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Pardus\Desktop\Sinan2\Dershane\Dershane\obj\x86\Debug\Dershane.exe
+C:\Users\Pardus\Desktop\Sinan2\Dershane\Dershane\obj\x86\Debug\Dershane.pdb
+C:\Users\Pardus\Desktop\Sinan2\Dershane\Dershane\bin\Debug\Dershane.exe
+C:\Users\Pardus\Desktop\Sinan2\Dershane\Dershane\bin\Debug\Dershane.pdb
+C:\Users\Pardus\Desktop\Sinan2\Dershane\Dershane\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Pardus\Desktop\Sinan2\Dershane\Dershane\obj\x86\Debug\Dershane.DevamsizlikEkle.resources
+C:\Users\Pardus\Desktop\Sinan2\Dershane\Dershane\obj\x86\Debug\Dershane.DevamsizlikListe.resources
+C:\Users\Pardus\Desktop\Sinan2\Dershane\Dershane\obj\x86\Debug\Dershane.Form1.resources
+C:\Users\Pardus\Desktop\Sinan2\Dershane\Dershane\obj\x86\Debug\Dershane.Gruplar.resources
+C:\Users\Pardus\Desktop\Sinan2\Dershane\Dershane\obj\x86\Debug\Dershane.GrupOlustur.resources
+C:\Users\Pardus\Desktop\Sinan2\Dershane\Dershane\obj\x86\Debug\Dershane.OgrenciEkle.resources
+C:\Users\Pardus\Desktop\Sinan2\Dershane\Dershane\obj\x86\Debug\Dershane.OgrenciListele.resources
+C:\Users\Pardus\Desktop\Sinan2\Dershane\Dershane\obj\x86\Debug\Dershane.OgretmenEkle.resources
+C:\Users\Pardus\Desktop\Sinan2\Dershane\Dershane\obj\x86\Debug\Dershane.OgretmenListele.resources
+C:\Users\Pardus\Desktop\Sinan2\Dershane\Dershane\obj\x86\Debug\Dershane.Properties.Resources.resources
+C:\Users\Pardus\Desktop\Sinan2\Dershane\Dershane\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Pardus\Desktop\Sinan2\Dershane\Dershane\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Users\Pardus\Desktop\Sinan2\Dershane\Dershane\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Pardus\Desktop\Sinan2\Dershane\Dershane\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Pardus\Desktop\Sinan2\Dershane\Dershane\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Pardus\Desktop\Sinan2\Dershane\Dershane\obj\x86\Debug\Dershane.KursDers.resources
+H:\Sinan3\Dershane\Dershane\obj\x86\Debug\Dershane.exe
+H:\Sinan3\Dershane\Dershane\obj\x86\Debug\Dershane.pdb
+H:\Sinan3\Dershane\Dershane\bin\Debug\Dershane.exe
+H:\Sinan3\Dershane\Dershane\bin\Debug\Dershane.pdb
+H:\Sinan3\Dershane\Dershane\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Sinan3\Dershane\Dershane\obj\x86\Debug\Dershane.DevamsizlikEkle.resources
+H:\Sinan3\Dershane\Dershane\obj\x86\Debug\Dershane.DevamsizlikListe.resources
+H:\Sinan3\Dershane\Dershane\obj\x86\Debug\Dershane.Form1.resources
+H:\Sinan3\Dershane\Dershane\obj\x86\Debug\Dershane.Gruplar.resources
+H:\Sinan3\Dershane\Dershane\obj\x86\Debug\Dershane.GrupOlustur.resources
+H:\Sinan3\Dershane\Dershane\obj\x86\Debug\Dershane.KursDers.resources
+H:\Sinan3\Dershane\Dershane\obj\x86\Debug\Dershane.OgrenciEkle.resources
+H:\Sinan3\Dershane\Dershane\obj\x86\Debug\Dershane.OgrenciListele.resources
+H:\Sinan3\Dershane\Dershane\obj\x86\Debug\Dershane.OgretmenEkle.resources
+H:\Sinan3\Dershane\Dershane\obj\x86\Debug\Dershane.OgretmenListele.resources
+H:\Sinan3\Dershane\Dershane\obj\x86\Debug\Dershane.Properties.Resources.resources
+H:\Sinan3\Dershane\Dershane\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+H:\Sinan3\Dershane\Dershane\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+H:\Sinan3\Dershane\Dershane\obj\x86\Debug\ResGen.read.1.tlog
+H:\Sinan3\Dershane\Dershane\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+H:\Sinan3\Dershane\Dershane\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Crow\Desktop\Dershane\Dershane\obj\x86\Debug\Dershane.KursDers.resources
+C:\Users\Crow\Desktop\Dershane\Dershane\bin\Debug\DershaneLib.dll
+C:\Users\Crow\Desktop\Dershane\Dershane\bin\Debug\DershaneLib.pdb
+C:\Users\Pardus\Desktop\Proje Çalışması\Dershane\Dershane\obj\x86\Debug\Dershane.exe
+C:\Users\Pardus\Desktop\Proje Çalışması\Dershane\Dershane\obj\x86\Debug\Dershane.pdb
+C:\Users\Pardus\Desktop\Proje Çalışması\Dershane\Dershane\bin\Debug\Dershane.exe
+C:\Users\Pardus\Desktop\Proje Çalışması\Dershane\Dershane\bin\Debug\Dershane.pdb
+C:\Users\Pardus\Desktop\Proje Çalışması\Dershane\Dershane\bin\Debug\DershaneLib.dll
+C:\Users\Pardus\Desktop\Proje Çalışması\Dershane\Dershane\bin\Debug\DershaneLib.pdb
+C:\Users\Pardus\Desktop\Proje Çalışması\Dershane\Dershane\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Pardus\Desktop\Proje Çalışması\Dershane\Dershane\obj\x86\Debug\Dershane.DevamsizlikEkle.resources
+C:\Users\Pardus\Desktop\Proje Çalışması\Dershane\Dershane\obj\x86\Debug\Dershane.DevamsizlikListe.resources
+C:\Users\Pardus\Desktop\Proje Çalışması\Dershane\Dershane\obj\x86\Debug\Dershane.Form1.resources
+C:\Users\Pardus\Desktop\Proje Çalışması\Dershane\Dershane\obj\x86\Debug\Dershane.Gruplar.resources
+C:\Users\Pardus\Desktop\Proje Çalışması\Dershane\Dershane\obj\x86\Debug\Dershane.GrupOlustur.resources
+C:\Users\Pardus\Desktop\Proje Çalışması\Dershane\Dershane\obj\x86\Debug\Dershane.KursDers.resources
+C:\Users\Pardus\Desktop\Proje Çalışması\Dershane\Dershane\obj\x86\Debug\Dershane.OgrenciEkle.resources
+C:\Users\Pardus\Desktop\Proje Çalışması\Dershane\Dershane\obj\x86\Debug\Dershane.OgrenciListele.resources
+C:\Users\Pardus\Desktop\Proje Çalışması\Dershane\Dershane\obj\x86\Debug\Dershane.OgretmenEkle.resources
+C:\Users\Pardus\Desktop\Proje Çalışması\Dershane\Dershane\obj\x86\Debug\Dershane.OgretmenListele.resources
+C:\Users\Pardus\Desktop\Proje Çalışması\Dershane\Dershane\obj\x86\Debug\Dershane.Properties.Resources.resources
+C:\Users\Pardus\Desktop\Proje Çalışması\Dershane\Dershane\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Pardus\Desktop\Proje Çalışması\Dershane\Dershane\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Users\Pardus\Desktop\Proje Çalışması\Dershane\Dershane\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Pardus\Desktop\Proje Çalışması\Dershane\Dershane\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Pardus\Desktop\Proje Çalışması\Dershane\Dershane\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Pardus\Desktop\Proje Çalışması\Dershane\Dershane\obj\x86\Debug\Dershane.DersDuzenle.resources
+C:\Users\Pardus\Desktop\Proje Çalışması\Dershane\Dershane\obj\x86\Debug\Dershane.KursDuzenle.resources
+C:\Users\Crow\Desktop\Dershane\Dershane\obj\x86\Debug\Dershane.DersDuzenle.resources
+C:\Users\Crow\Desktop\Dershane\Dershane\obj\x86\Debug\Dershane.KursDuzenle.resources
+C:\Users\Pardus\Desktop\Proje Çalışması\Dershane\Dershane\obj\x86\Debug\Dershane.Hakkinda.resources
+C:\Users\Pardus\Desktop\Proje Çalışması\Dershane\Dershane\obj\x86\Debug\Dershane.Giris.resources
+C:\Users\Crow\Desktop\Dershane\Dershane\obj\x86\Debug\Dershane.Giris.resources
+C:\Users\Crow\Desktop\Dershane\Dershane\obj\x86\Debug\Dershane.Hakkinda.resources
+C:\Users\Pardus\Desktop\Proje Çalışması\Dershane\Dershane\obj\x86\Debug\Dershane.DevamsizlikDuzenle.resources
+C:\Users\Crow\Desktop\Dershane\Dershane\obj\x86\Debug\Dershane.DevamsizlikDuzenle.resources
+C:\Users\Pardus\Desktop\Dershane\Dershane\obj\x86\Debug\Dershane.exe
+C:\Users\Pardus\Desktop\Dershane\Dershane\obj\x86\Debug\Dershane.pdb
+C:\Users\Pardus\Desktop\Dershane\Dershane\bin\Debug\Dershane.exe
+C:\Users\Pardus\Desktop\Dershane\Dershane\bin\Debug\Dershane.pdb
+C:\Users\Pardus\Desktop\Dershane\Dershane\bin\Debug\DershaneLib.dll
+C:\Users\Pardus\Desktop\Dershane\Dershane\bin\Debug\DershaneLib.pdb
+C:\Users\Pardus\Desktop\Dershane\Dershane\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Pardus\Desktop\Dershane\Dershane\obj\x86\Debug\Dershane.DersDuzenle.resources
+C:\Users\Pardus\Desktop\Dershane\Dershane\obj\x86\Debug\Dershane.DevamsizlikDuzenle.resources
+C:\Users\Pardus\Desktop\Dershane\Dershane\obj\x86\Debug\Dershane.DevamsizlikEkle.resources
+C:\Users\Pardus\Desktop\Dershane\Dershane\obj\x86\Debug\Dershane.DevamsizlikListe.resources
+C:\Users\Pardus\Desktop\Dershane\Dershane\obj\x86\Debug\Dershane.Form1.resources
+C:\Users\Pardus\Desktop\Dershane\Dershane\obj\x86\Debug\Dershane.Giris.resources
+C:\Users\Pardus\Desktop\Dershane\Dershane\obj\x86\Debug\Dershane.Gruplar.resources
+C:\Users\Pardus\Desktop\Dershane\Dershane\obj\x86\Debug\Dershane.GrupOlustur.resources
+C:\Users\Pardus\Desktop\Dershane\Dershane\obj\x86\Debug\Dershane.Hakkinda.resources
+C:\Users\Pardus\Desktop\Dershane\Dershane\obj\x86\Debug\Dershane.KursDers.resources
+C:\Users\Pardus\Desktop\Dershane\Dershane\obj\x86\Debug\Dershane.KursDuzenle.resources
+C:\Users\Pardus\Desktop\Dershane\Dershane\obj\x86\Debug\Dershane.OgrenciEkle.resources
+C:\Users\Pardus\Desktop\Dershane\Dershane\obj\x86\Debug\Dershane.OgrenciListele.resources
+C:\Users\Pardus\Desktop\Dershane\Dershane\obj\x86\Debug\Dershane.OgretmenEkle.resources
+C:\Users\Pardus\Desktop\Dershane\Dershane\obj\x86\Debug\Dershane.OgretmenListele.resources
+C:\Users\Pardus\Desktop\Dershane\Dershane\obj\x86\Debug\Dershane.Properties.Resources.resources
+C:\Users\Pardus\Desktop\Dershane\Dershane\obj\x86\Debug\Dershane.Yardim.resources
+C:\Users\Pardus\Desktop\Dershane\Dershane\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Pardus\Desktop\Dershane\Dershane\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Users\Pardus\Desktop\Dershane\Dershane\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Pardus\Desktop\Dershane\Dershane\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Pardus\Desktop\Dershane\Dershane\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Pardus\Desktop\Kurs Dosyaları\Programlama\Yapılan Çalışmalar\Dershane\Dershane\obj\x86\Debug\Dershane.exe
+C:\Users\Pardus\Desktop\Kurs Dosyaları\Programlama\Yapılan Çalışmalar\Dershane\Dershane\obj\x86\Debug\Dershane.pdb
+C:\Users\Pardus\Desktop\Kurs Dosyaları\Programlama\Yapılan Çalışmalar\Dershane\Dershane\bin\Debug\Dershane.exe
+C:\Users\Pardus\Desktop\Kurs Dosyaları\Programlama\Yapılan Çalışmalar\Dershane\Dershane\bin\Debug\Dershane.pdb
+C:\Users\Pardus\Desktop\Kurs Dosyaları\Programlama\Yapılan Çalışmalar\Dershane\Dershane\bin\Debug\DershaneLib.dll
+C:\Users\Pardus\Desktop\Kurs Dosyaları\Programlama\Yapılan Çalışmalar\Dershane\Dershane\bin\Debug\DershaneLib.pdb
+C:\Users\Pardus\Desktop\Kurs Dosyaları\Programlama\Yapılan Çalışmalar\Dershane\Dershane\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Pardus\Desktop\Kurs Dosyaları\Programlama\Yapılan Çalışmalar\Dershane\Dershane\obj\x86\Debug\Dershane.DersDuzenle.resources
+C:\Users\Pardus\Desktop\Kurs Dosyaları\Programlama\Yapılan Çalışmalar\Dershane\Dershane\obj\x86\Debug\Dershane.DevamsizlikDuzenle.resources
+C:\Users\Pardus\Desktop\Kurs Dosyaları\Programlama\Yapılan Çalışmalar\Dershane\Dershane\obj\x86\Debug\Dershane.DevamsizlikEkle.resources
+C:\Users\Pardus\Desktop\Kurs Dosyaları\Programlama\Yapılan Çalışmalar\Dershane\Dershane\obj\x86\Debug\Dershane.DevamsizlikListe.resources
+C:\Users\Pardus\Desktop\Kurs Dosyaları\Programlama\Yapılan Çalışmalar\Dershane\Dershane\obj\x86\Debug\Dershane.Form1.resources
+C:\Users\Pardus\Desktop\Kurs Dosyaları\Programlama\Yapılan Çalışmalar\Dershane\Dershane\obj\x86\Debug\Dershane.Giris.resources
+C:\Users\Pardus\Desktop\Kurs Dosyaları\Programlama\Yapılan Çalışmalar\Dershane\Dershane\obj\x86\Debug\Dershane.Gruplar.resources
+C:\Users\Pardus\Desktop\Kurs Dosyaları\Programlama\Yapılan Çalışmalar\Dershane\Dershane\obj\x86\Debug\Dershane.GrupOlustur.resources
+C:\Users\Pardus\Desktop\Kurs Dosyaları\Programlama\Yapılan Çalışmalar\Dershane\Dershane\obj\x86\Debug\Dershane.Hakkinda.resources
+C:\Users\Pardus\Desktop\Kurs Dosyaları\Programlama\Yapılan Çalışmalar\Dershane\Dershane\obj\x86\Debug\Dershane.KursDers.resources
+C:\Users\Pardus\Desktop\Kurs Dosyaları\Programlama\Yapılan Çalışmalar\Dershane\Dershane\obj\x86\Debug\Dershane.KursDuzenle.resources
+C:\Users\Pardus\Desktop\Kurs Dosyaları\Programlama\Yapılan Çalışmalar\Dershane\Dershane\obj\x86\Debug\Dershane.OgrenciEkle.resources
+C:\Users\Pardus\Desktop\Kurs Dosyaları\Programlama\Yapılan Çalışmalar\Dershane\Dershane\obj\x86\Debug\Dershane.OgrenciListele.resources
+C:\Users\Pardus\Desktop\Kurs Dosyaları\Programlama\Yapılan Çalışmalar\Dershane\Dershane\obj\x86\Debug\Dershane.OgretmenEkle.resources
+C:\Users\Pardus\Desktop\Kurs Dosyaları\Programlama\Yapılan Çalışmalar\Dershane\Dershane\obj\x86\Debug\Dershane.OgretmenListele.resources
+C:\Users\Pardus\Desktop\Kurs Dosyaları\Programlama\Yapılan Çalışmalar\Dershane\Dershane\obj\x86\Debug\Dershane.Properties.Resources.resources
+C:\Users\Pardus\Desktop\Kurs Dosyaları\Programlama\Yapılan Çalışmalar\Dershane\Dershane\obj\x86\Debug\Dershane.Yardim.resources
+C:\Users\Pardus\Desktop\Kurs Dosyaları\Programlama\Yapılan Çalışmalar\Dershane\Dershane\obj\x86\Debug\Dershane.yedek.resources
+C:\Users\Pardus\Desktop\Kurs Dosyaları\Programlama\Yapılan Çalışmalar\Dershane\Dershane\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Pardus\Desktop\Kurs Dosyaları\Programlama\Yapılan Çalışmalar\Dershane\Dershane\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Users\Pardus\Desktop\Kurs Dosyaları\Programlama\Yapılan Çalışmalar\Dershane\Dershane\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Pardus\Desktop\Kurs Dosyaları\Programlama\Yapılan Çalışmalar\Dershane\Dershane\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Pardus\Desktop\Kurs Dosyaları\Programlama\Yapılan Çalışmalar\Dershane\Dershane\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Sinan\Desktop\Kurs Dosyaları\Programlama\Yapılan Çalışmalar\Dershane\Dershane\obj\x86\Debug\Dershane.exe
+C:\Users\Sinan\Desktop\Kurs Dosyaları\Programlama\Yapılan Çalışmalar\Dershane\Dershane\obj\x86\Debug\Dershane.pdb
+C:\Users\Sinan\Desktop\Kurs Dosyaları\Programlama\Yapılan Çalışmalar\Dershane\Dershane\bin\Debug\Dershane.exe
+C:\Users\Sinan\Desktop\Kurs Dosyaları\Programlama\Yapılan Çalışmalar\Dershane\Dershane\bin\Debug\Dershane.pdb
+C:\Users\Sinan\Desktop\Kurs Dosyaları\Programlama\Yapılan Çalışmalar\Dershane\Dershane\bin\Debug\DershaneLib.dll
+C:\Users\Sinan\Desktop\Kurs Dosyaları\Programlama\Yapılan Çalışmalar\Dershane\Dershane\bin\Debug\DershaneLib.pdb
+C:\Users\Sinan\Desktop\Kurs Dosyaları\Programlama\Yapılan Çalışmalar\Dershane\Dershane\obj\x86\Debug\Dershane.csprojResolveAssemblyReference.cache
+C:\Users\Sinan\Desktop\Kurs Dosyaları\Programlama\Yapılan Çalışmalar\Dershane\Dershane\obj\x86\Debug\Dershane.DersDuzenle.resources
+C:\Users\Sinan\Desktop\Kurs Dosyaları\Programlama\Yapılan Çalışmalar\Dershane\Dershane\obj\x86\Debug\Dershane.DevamsizlikDuzenle.resources
+C:\Users\Sinan\Desktop\Kurs Dosyaları\Programlama\Yapılan Çalışmalar\Dershane\Dershane\obj\x86\Debug\Dershane.DevamsizlikEkle.resources
+C:\Users\Sinan\Desktop\Kurs Dosyaları\Programlama\Yapılan Çalışmalar\Dershane\Dershane\obj\x86\Debug\Dershane.DevamsizlikListe.resources
+C:\Users\Sinan\Desktop\Kurs Dosyaları\Programlama\Yapılan Çalışmalar\Dershane\Dershane\obj\x86\Debug\Dershane.Form1.resources
+C:\Users\Sinan\Desktop\Kurs Dosyaları\Programlama\Yapılan Çalışmalar\Dershane\Dershane\obj\x86\Debug\Dershane.Giris.resources
+C:\Users\Sinan\Desktop\Kurs Dosyaları\Programlama\Yapılan Çalışmalar\Dershane\Dershane\obj\x86\Debug\Dershane.Gruplar.resources
+C:\Users\Sinan\Desktop\Kurs Dosyaları\Programlama\Yapılan Çalışmalar\Dershane\Dershane\obj\x86\Debug\Dershane.GrupOlustur.resources
+C:\Users\Sinan\Desktop\Kurs Dosyaları\Programlama\Yapılan Çalışmalar\Dershane\Dershane\obj\x86\Debug\Dershane.Hakkinda.resources
+C:\Users\Sinan\Desktop\Kurs Dosyaları\Programlama\Yapılan Çalışmalar\Dershane\Dershane\obj\x86\Debug\Dershane.KursDers.resources
+C:\Users\Sinan\Desktop\Kurs Dosyaları\Programlama\Yapılan Çalışmalar\Dershane\Dershane\obj\x86\Debug\Dershane.KursDuzenle.resources
+C:\Users\Sinan\Desktop\Kurs Dosyaları\Programlama\Yapılan Çalışmalar\Dershane\Dershane\obj\x86\Debug\Dershane.OgrenciEkle.resources
+C:\Users\Sinan\Desktop\Kurs Dosyaları\Programlama\Yapılan Çalışmalar\Dershane\Dershane\obj\x86\Debug\Dershane.OgrenciListele.resources
+C:\Users\Sinan\Desktop\Kurs Dosyaları\Programlama\Yapılan Çalışmalar\Dershane\Dershane\obj\x86\Debug\Dershane.OgretmenEkle.resources
+C:\Users\Sinan\Desktop\Kurs Dosyaları\Programlama\Yapılan Çalışmalar\Dershane\Dershane\obj\x86\Debug\Dershane.OgretmenListele.resources
+C:\Users\Sinan\Desktop\Kurs Dosyaları\Programlama\Yapılan Çalışmalar\Dershane\Dershane\obj\x86\Debug\Dershane.Properties.Resources.resources
+C:\Users\Sinan\Desktop\Kurs Dosyaları\Programlama\Yapılan Çalışmalar\Dershane\Dershane\obj\x86\Debug\Dershane.Yardim.resources
+C:\Users\Sinan\Desktop\Kurs Dosyaları\Programlama\Yapılan Çalışmalar\Dershane\Dershane\obj\x86\Debug\Dershane.yedek.resources
+C:\Users\Sinan\Desktop\Kurs Dosyaları\Programlama\Yapılan Çalışmalar\Dershane\Dershane\obj\x86\Debug\Dershane.csproj.GenerateResource.Cache

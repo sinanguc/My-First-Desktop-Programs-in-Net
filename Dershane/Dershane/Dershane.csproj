@@ -1,0 +1,293 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{29D82B09-8A32-49D0-8EC3-BF671A8BF154}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Dershane</RootNamespace>
+    <AssemblyName>Dershane</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>dershane.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CImage.cs" />
+    <Compile Include="DersDuzenle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DersDuzenle.Designer.cs">
+      <DependentUpon>DersDuzenle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DevamsizlikDuzenle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DevamsizlikDuzenle.Designer.cs">
+      <DependentUpon>DevamsizlikDuzenle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DevamsizlikEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DevamsizlikEkle.Designer.cs">
+      <DependentUpon>DevamsizlikEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DevamsizlikListe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DevamsizlikListe.Designer.cs">
+      <DependentUpon>DevamsizlikListe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Giris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Giris.Designer.cs">
+      <DependentUpon>Giris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gruplar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gruplar.Designer.cs">
+      <DependentUpon>Gruplar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GrupOlustur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GrupOlustur.Designer.cs">
+      <DependentUpon>GrupOlustur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hakkinda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hakkinda.Designer.cs">
+      <DependentUpon>Hakkinda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KursDers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KursDers.Designer.cs">
+      <DependentUpon>KursDers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KursDuzenle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KursDuzenle.Designer.cs">
+      <DependentUpon>KursDuzenle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OgrenciEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OgrenciEkle.Designer.cs">
+      <DependentUpon>OgrenciEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OgrenciListele.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OgrenciListele.Designer.cs">
+      <DependentUpon>OgrenciListele.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OgretmenEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OgretmenEkle.Designer.cs">
+      <DependentUpon>OgretmenEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OgretmenListele.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OgretmenListele.Designer.cs">
+      <DependentUpon>OgretmenListele.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Yardim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Yardim.Designer.cs">
+      <DependentUpon>Yardim.cs</DependentUpon>
+    </Compile>
+    <Compile Include="yedek.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="yedek.Designer.cs">
+      <DependentUpon>yedek.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="DersDuzenle.resx">
+      <DependentUpon>DersDuzenle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DevamsizlikDuzenle.resx">
+      <DependentUpon>DevamsizlikDuzenle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DevamsizlikEkle.resx">
+      <DependentUpon>DevamsizlikEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DevamsizlikListe.resx">
+      <DependentUpon>DevamsizlikListe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Giris.resx">
+      <DependentUpon>Giris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gruplar.resx">
+      <DependentUpon>Gruplar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GrupOlustur.resx">
+      <DependentUpon>GrupOlustur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hakkinda.resx">
+      <DependentUpon>Hakkinda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KursDers.resx">
+      <DependentUpon>KursDers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KursDuzenle.resx">
+      <DependentUpon>KursDuzenle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OgrenciEkle.resx">
+      <DependentUpon>OgrenciEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OgrenciListele.resx">
+      <DependentUpon>OgrenciListele.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OgretmenEkle.resx">
+      <DependentUpon>OgretmenEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OgretmenListele.resx">
+      <DependentUpon>OgretmenListele.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Yardim.resx">
+      <DependentUpon>Yardim.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="yedek.resx">
+      <DependentUpon>yedek.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ogrenci.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="dershane.ico" />
+    <None Include="Resources\hepsisec.png" />
+    <None Include="Resources\ara %282%29.png" />
+    <None Include="Resources\ara.png" />
+    <None Include="Resources\BosResim.png" />
+    <None Include="Resources\resimekle1.png" />
+    <None Include="Resources\resimekle.png" />
+    <None Include="Resources\sagOK.png" />
+    <None Include="Resources\solOK.png" />
+    <None Include="Resources\yeniufak.png" />
+    <None Include="Resources\silufak.png" />
+    <None Include="Resources\duzenleufak.png" />
+    <None Include="Resources\duzenle1.png" />
+    <None Include="Resources\duzenle.png" />
+    <None Include="Resources\Sil.png" />
+    <None Include="Resources\yeni.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DershaneLib\DershaneLib.csproj">
+      <Project>{A8C79A8F-A4EB-4B20-9FFE-6CBC4E119AAC}</Project>
+      <Name>DershaneLib</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

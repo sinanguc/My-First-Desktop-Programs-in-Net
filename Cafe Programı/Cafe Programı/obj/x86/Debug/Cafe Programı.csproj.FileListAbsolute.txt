@@ -1,0 +1,15 @@
+C:\Users\Pardus\Desktop\C# Proje\Cafe Programı\Cafe Programı\bin\Debug\Cafe Programı.exe
+C:\Users\Pardus\Desktop\C# Proje\Cafe Programı\Cafe Programı\bin\Debug\Cafe Programı.pdb
+C:\Users\Pardus\Desktop\C# Proje\Cafe Programı\Cafe Programı\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Pardus\Desktop\C# Proje\Cafe Programı\Cafe Programı\obj\x86\Debug\Cafe_Programı.AnaEkran.resources
+C:\Users\Pardus\Desktop\C# Proje\Cafe Programı\Cafe Programı\obj\x86\Debug\Cafe_Programı.Properties.Resources.resources
+C:\Users\Pardus\Desktop\C# Proje\Cafe Programı\Cafe Programı\obj\x86\Debug\Cafe_Programı.SiparisEkrani.resources
+C:\Users\Pardus\Desktop\C# Proje\Cafe Programı\Cafe Programı\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Pardus\Desktop\C# Proje\Cafe Programı\Cafe Programı\obj\x86\Debug\GenerateResource-ResGen.read.7.tlog
+C:\Users\Pardus\Desktop\C# Proje\Cafe Programı\Cafe Programı\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Pardus\Desktop\C# Proje\Cafe Programı\Cafe Programı\obj\x86\Debug\Cafe Programı.exe
+C:\Users\Pardus\Desktop\C# Proje\Cafe Programı\Cafe Programı\obj\x86\Debug\Cafe Programı.pdb
+C:\Users\Pardus\Desktop\C# Proje\Cafe Programı\Cafe Programı\bin\Debug\CafeLib.dll
+C:\Users\Pardus\Desktop\C# Proje\Cafe Programı\Cafe Programı\bin\Debug\CafeLib.pdb
+C:\Users\Pardus\Desktop\C# Proje\Cafe Programı\Cafe Programı\obj\x86\Debug\Cafe_Programı.ToplamKazanc.resources
+C:\Users\Pardus\Desktop\C# Proje\Cafe Programı\Cafe Programı\obj\x86\Debug\Cafe_Programı.HesapKapama.resources

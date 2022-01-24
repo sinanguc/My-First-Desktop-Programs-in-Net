@@ -1,0 +1,5 @@
+C:\Users\Pardus\Desktop\C# Proje\Cafe Programı\CafeLib\bin\Debug\CafeLib.dll
+C:\Users\Pardus\Desktop\C# Proje\Cafe Programı\CafeLib\bin\Debug\CafeLib.pdb
+C:\Users\Pardus\Desktop\C# Proje\Cafe Programı\CafeLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Pardus\Desktop\C# Proje\Cafe Programı\CafeLib\obj\Debug\CafeLib.dll
+C:\Users\Pardus\Desktop\C# Proje\Cafe Programı\CafeLib\obj\Debug\CafeLib.pdb

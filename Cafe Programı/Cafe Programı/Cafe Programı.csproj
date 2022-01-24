@@ -1,0 +1,267 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E0680A57-76F4-4588-8619-F29A20D7F7C4}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Cafe_Programı</RootNamespace>
+    <AssemblyName>Cafe Programı</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>favicon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <NoWin32Manifest>true</NoWin32Manifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AnaEkran.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AnaEkran.Designer.cs">
+      <DependentUpon>AnaEkran.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HesapKapama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HesapKapama.Designer.cs">
+      <DependentUpon>HesapKapama.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ToplamKazanc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ToplamKazanc.Designer.cs">
+      <DependentUpon>ToplamKazanc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SiparisEkrani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SiparisEkrani.Designer.cs">
+      <DependentUpon>SiparisEkrani.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AnaEkran.resx">
+      <DependentUpon>AnaEkran.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HesapKapama.resx">
+      <DependentUpon>HesapKapama.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ToplamKazanc.resx">
+      <DependentUpon>ToplamKazanc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="SiparisEkrani.resx">
+      <DependentUpon>SiparisEkrani.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\karisikmantarlipizza.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\karisikpizza.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mantarlipizza.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\parcapizza.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\parkpizza.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\salamlipizza.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sosislipizza.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sucuklupizza.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vejeteryanpizza.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CafeLib\CafeLib.csproj">
+      <Project>{C03FADF8-7EF6-44B1-AB56-7653ED653F91}</Project>
+      <Name>CafeLib</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cart.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calculator.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\accept.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\etlikumpir.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mantarlikumpir.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sadekumpir.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\specialkumpir.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sutlukumpir.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tamkarisikkumpir.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tonbaliklikumpir.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ultrasadekumpir.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vejeteryankumpir.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ayran.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cola.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\colalight.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\colazero.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fanta.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nestea.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sprite.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cappyvisne.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\soda.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\su.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\schweppes.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\uzumsuyu.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sufle.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\firinsutlac.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kazandibi.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\keskul.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\supangle.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tavukgogsu.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\profiterol.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cookie-cheesecake.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sakizlimuhallebi.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\report.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calculator1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="favicon.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
